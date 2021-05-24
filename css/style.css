@@ -72,7 +72,7 @@ h1{
 	width: 100%;
 	height: 50vh;
 	text-align: center;
-	padding-top: 150px;
+	padding-top: 15vh;
 }
 .nosotros h1{
 	font-weight: 100;
@@ -109,7 +109,7 @@ h1{
 
 footer{
 	background: #757575;
-	height: 50vh;
+	height: 300px;
 	padding-top: 30px;
 }
 footer h1{
@@ -148,7 +148,7 @@ and (max-device-width : 736px) { }
     font-size: 13px;
 }
 .nosotros{
-		height: 400px;
+		height:35vh;
 	overflow: hidden;
 	padding-top: 15px;
 }
@@ -162,6 +162,7 @@ h1{
 
 footer{
 	padding-top: 10px;
+	height: 30vh;
 }
 
 }
